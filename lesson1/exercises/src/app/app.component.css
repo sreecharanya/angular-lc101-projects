@@ -4,7 +4,7 @@
 }
 .box{
     display: flex;
-    padding: 20px;
+    padding: 200px;
 }
 .photos{
     justify-content: center;
